@@ -1,0 +1,8 @@
+Question: what are the key things you would consider when creating/consuming an API
+to ensure that it is secure and reliable?
+
+
+1.Every API should have proper naming convention and naming
+2.APIs should be secured and should not leak any internal data
+3.1 API should provide only 1 relevent data property
+4.While consuming take care of all the properties coming in the response such as JWT token.
