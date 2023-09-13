@@ -1,0 +1,13 @@
+1. How will you tackle the challenge above?
+   -First we have to read the file properly and understand the input type that the file have.
+   -Complex Input giving challenge to work on
+   -Understanding the input and creating modified input on which we can do operations
+   
+2. What type of errors you would you check for?
+   -Null pointer Exception can we faced because some keys may not contain value 
+   -.csv file input for the correct format to write the algo.
+   
+3. How might a user break your code?
+   -Invalid input 
+   -Keys with no values linked can give error
+   -the input is not following the .csv file format
